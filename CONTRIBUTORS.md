@@ -45,3 +45,5 @@
 -[@GiuliaMalaroda](https://github.com/GiuliaMalaroda)
 
 -[@ashlieghdawn](http://github.com/ashlieghdawn)
+
+-[@vedagr](http://github.com/vedagr)
